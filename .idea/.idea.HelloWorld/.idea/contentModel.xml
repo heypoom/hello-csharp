@@ -3,7 +3,10 @@
   <component name="ContentModelStore">
     <e p="$USER_HOME$/Library/Caches/Rider2019.1/extResources" t="IncludeRecursive" />
     <e p="$USER_HOME$/Library/Caches/Rider2019.1/resharper-host/local/Transient/ReSharperHost/v191/SolutionCaches/_HelloWorld.-1069160604.00" t="ExcludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.1/rust_expanded_macros/hmQPEIyd/expansions" t="IncludeRecursive" />
     <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p=".git/info/exclude" t="IncludeRecursive" />
+      <e p=".gitignore" t="Include" />
       <e p="bin" t="ExcludeRecursive" />
       <e p="HelloWorld.csproj" t="IncludeRecursive" />
       <e p="HelloWorld.sln" t="IncludeFlat" />
